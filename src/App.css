@@ -36,3 +36,29 @@
     transform: rotate(360deg);
   }
 }
+
+.bg-red{
+  background-color: #bc3a3a;
+}
+.blue{
+  color: #5c5ccd;
+}
+.turquoise{
+  color: rgb(92,205,205);
+}
+/*
+below are colors that are suggested by ai they are a grouping
+*/
+.bg-yellow{
+  background-color: #F4E173;
+}
+.bg-whiteish{
+  background-color: #EAF1E7;
+}.bg-blue{
+  background-color: #11538C;
+}.bg-darkblue{
+  background-color: #121E4A;
+}
+.bg-darkerblue{
+  background-color: #171427;
+}
